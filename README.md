@@ -16,7 +16,8 @@ This project is a Spring Boot service REST of sending e-mail and implemented usi
 }
 
 The follow image explain better the architecture of service:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/felipeschirmann/simple-email-artemismq/blob/323be07fc6d12a2675014add7b5537422e218a2a/img/architecture.png?raw=true)
 
 ## Getting Started <a name = "getting_started"></a>
 
