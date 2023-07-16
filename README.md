@@ -8,6 +8,7 @@
 ## About <a name = "about"></a>
 
 This project is a Spring Boot service REST of sending e-mail and implemented using Apache Artemis MQ for to queue the message and posteriorly send to server (in case gmail) by through the endpoint -> http://localhost:8080/ and verb POST with follow object:
+
 {
   "recipient": "[Target]",
   "subject": "[subject]"
