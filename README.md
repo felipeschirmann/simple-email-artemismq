@@ -25,8 +25,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 Configure env vars in file application.properties and compile and run as a spring application.
 
-### Prerequisites
+example launch.json (vscode)
+
+`` 
+"env": 
+{
+  "BROKER_SERVER": "",
+  "BROKER_SERVER_QUEUE": "",
+  "BROKER_SERVER_PASSWORD": "",
+  "BROKER_SERVER_USER": "",
+  "SMTP_SERVER_HOST": "",
+  "SMTP_SERVER_USER": "",
+  "SMTP_SERVER_PASSWORD": "",
+  "SMTP_SERVER_PORT": ""
+}
+``
+### Pre requisites
 
 - Server with Apache ActiveMQ 
 - Account of E-mail for send e-mail(SMTP)
-
